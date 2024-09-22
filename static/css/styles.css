@@ -10,3 +10,9 @@ textarea.dark-mode, p.dark-mode {
     background-color: #333333;
     color: #ffffff;
 }
+#dark-mode-toggle {  
+    position: absolute;  
+    top: 20px;  
+    right: 20px;  
+    cursor: pointer;  
+}  
