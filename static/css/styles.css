@@ -1,0 +1,12 @@
+body {
+    padding-top: 50px;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+textarea.dark-mode, p.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+}
