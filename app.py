@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, jsonify
 import requests
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 # Replace with your actual HuggingChat API endpoint and key
 HUGGINGCHAT_API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
