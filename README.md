@@ -1,6 +1,6 @@
-# AI Text Summarizer
+# EZ AI Text Summarizer
 
-AI Text Summarizer is a web application that uses artificial intelligence to generate concise summaries of input text. This project is built with Flask for the backend, and HTML, CSS, and JavaScript for the frontend.
+EZ AI Text Summarizer is a web application that uses artificial intelligence to generate concise summaries of input text. This project is built with Flask for the backend, and HTML, CSS, and JavaScript for the frontend.
 
 ## Features
 
