@@ -30,8 +30,8 @@ TXTSUM is a web application that uses artificial intelligence to generate concis
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-text-summarizer.git
-   cd ai-text-summarizer
+   git clone https://github.com/hizzybabe/txtsum.git
+   cd txtsum
    ```
 
 2. Create a virtual environment and activate it:
@@ -46,7 +46,7 @@ TXTSUM is a web application that uses artificial intelligence to generate concis
    ```
 
 4. Set up your HuggingChat API key:
-   - Sign up for a HuggingChat API key at https://huggingface.co/
+   - Sign up for a HuggingChat API key at https://huggingface.co/ (use text summarizer model, defaulted as [BART](https://huggingface.co/facebook/bart-large-cnn))
    - Set the environment variable:
      ```
      export HUGGINGCHAT_API_KEY=your_api_key_here
